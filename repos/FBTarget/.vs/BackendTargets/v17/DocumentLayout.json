@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\source\\repos\\FBTarget\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98E4E789-68D5-4549-8902-3155DF221852}|FBTarget\\BackendTargets.csproj|c:\\users\\diego\\source\\repos\\fbtarget\\fbtarget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E4E789-68D5-4549-8902-3155DF221852}|FBTarget\\BackendTargets.csproj|solutionrelative:fbtarget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E4E789-68D5-4549-8902-3155DF221852}|FBTarget\\BackendTargets.csproj|c:\\users\\diego\\source\\repos\\fbtarget\\fbtarget\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E4E789-68D5-4549-8902-3155DF221852}|FBTarget\\BackendTargets.csproj|solutionrelative:fbtarget\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E4E789-68D5-4549-8902-3155DF221852}|FBTarget\\BackendTargets.csproj|c:\\users\\diego\\source\\repos\\fbtarget\\fbtarget\\models\\tarjetacredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E4E789-68D5-4549-8902-3155DF221852}|FBTarget\\BackendTargets.csproj|solutionrelative:fbtarget\\models\\tarjetacredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E4E789-68D5-4549-8902-3155DF221852}|FBTarget\\BackendTargets.csproj|c:\\users\\diego\\source\\repos\\fbtarget\\fbtarget\\controllers\\targetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E4E789-68D5-4549-8902-3155DF221852}|FBTarget\\BackendTargets.csproj|solutionrelative:fbtarget\\controllers\\targetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E4E789-68D5-4549-8902-3155DF221852}|FBTarget\\BackendTargets.csproj|c:\\users\\diego\\source\\repos\\fbtarget\\fbtarget\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E4E789-68D5-4549-8902-3155DF221852}|FBTarget\\BackendTargets.csproj|solutionrelative:fbtarget\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E4E789-68D5-4549-8902-3155DF221852}|FBTarget\\BackendTargets.csproj|c:\\users\\diego\\source\\repos\\fbtarget\\fbtarget\\migrations\\20240830034131_1.0.0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E4E789-68D5-4549-8902-3155DF221852}|FBTarget\\BackendTargets.csproj|solutionrelative:fbtarget\\migrations\\20240830034131_1.0.0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E4E789-68D5-4549-8902-3155DF221852}|FBTarget\\BackendTargets.csproj|c:\\users\\diego\\source\\repos\\fbtarget\\fbtarget\\fbtarget.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{98E4E789-68D5-4549-8902-3155DF221852}|FBTarget\\BackendTargets.csproj|solutionrelative:fbtarget\\fbtarget.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E4E789-68D5-4549-8902-3155DF221852}|FBTarget\\BackendTargets.csproj|c:\\users\\diego\\source\\repos\\fbtarget\\fbtarget\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98E4E789-68D5-4549-8902-3155DF221852}|FBTarget\\BackendTargets.csproj|solutionrelative:fbtarget\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TarjetaCredito.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\FBTarget\\FBTarget\\Models\\TarjetaCredito.cs",
+              "RelativeDocumentMoniker": "FBTarget\\Models\\TarjetaCredito.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\FBTarget\\FBTarget\\Models\\TarjetaCredito.cs",
+              "RelativeToolTip": "FBTarget\\Models\\TarjetaCredito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T03:14:55.185Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\FBTarget\\FBTarget\\Program.cs",
+              "RelativeDocumentMoniker": "FBTarget\\Program.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\FBTarget\\FBTarget\\Program.cs",
+              "RelativeToolTip": "FBTarget\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:51:36.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TargetController.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\FBTarget\\FBTarget\\Controllers\\TargetController.cs",
+              "RelativeDocumentMoniker": "FBTarget\\Controllers\\TargetController.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\FBTarget\\FBTarget\\Controllers\\TargetController.cs",
+              "RelativeToolTip": "FBTarget\\Controllers\\TargetController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T04:17:05.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\FBTarget\\FBTarget\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "FBTarget\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\FBTarget\\FBTarget\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "FBTarget\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T04:12:44.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FBTarget.http",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\FBTarget\\FBTarget\\FBTarget.http",
+              "RelativeDocumentMoniker": "FBTarget\\FBTarget.http",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\FBTarget\\FBTarget\\FBTarget.http",
+              "RelativeToolTip": "FBTarget\\FBTarget.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-30T04:12:35.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240830034131_1.0.0.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\FBTarget\\FBTarget\\Migrations\\20240830034131_1.0.0.cs",
+              "RelativeDocumentMoniker": "FBTarget\\Migrations\\20240830034131_1.0.0.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\FBTarget\\FBTarget\\Migrations\\20240830034131_1.0.0.cs",
+              "RelativeToolTip": "FBTarget\\Migrations\\20240830034131_1.0.0.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T03:41:31.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\FBTarget\\FBTarget\\appsettings.json",
+              "RelativeDocumentMoniker": "FBTarget\\appsettings.json",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\FBTarget\\FBTarget\\appsettings.json",
+              "RelativeToolTip": "FBTarget\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-30T03:23:40.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\FBTarget\\FBTarget\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FBTarget\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\FBTarget\\FBTarget\\AppDbContext.cs",
+              "RelativeToolTip": "FBTarget\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T03:17:59.953Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

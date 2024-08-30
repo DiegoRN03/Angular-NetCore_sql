@@ -1,0 +1,23 @@
+.fa-regular {
+    cursor: pointer;
+}
+
+.fa-solid {
+    cursor: pointer;
+
+}
+
+.custom-icon {
+    font-size: 1.25rem; /* Ajusta el tamaño según sea necesario */
+    line-height: 1.5;   /* Alinea el ícono verticalmente si es necesario */
+  }
+
+
+.green-icon {
+    color: green
+}
+
+.red-icon{
+    color:red
+}
+
